@@ -19,7 +19,7 @@ Currently I have a couple of projects but I have not been able to import them to
 * Add team members (Wicho and Marko)
 * Create icon library using Inkscape
 * Create AramEau's Org logo
-  * Once it's created set it as this org's profile photo
+  * Once it's created set it as this org's profile photo, and as the MercagoPago's profile photo too
 * Use a project management tool for this roadmap instead of this README (Maybe using Github Projects)
 * Research and add CICD pipelines / secrets
 
