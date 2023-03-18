@@ -6,22 +6,11 @@ Aram Eau (or AramEau all toghether) is the namespace for my personal projects, I
 
 ### Projects
 
-Currently I have a couple of projects but I have not been able to import them to this org...
-
-### Roadmap
-
-* Import (and modify accordingly) the IGS projects
-* Create the npm scope for this org
-* Develop Morfeo (My own component library)
-  * And Morfeo explorer which would be
-* Import SCPUP game
-* Think of what to do with Ehlixu's projects (should I merge them to this org or not)
-* Add team members (Wicho and Marko)
-* Create icon library using Inkscape
-* Create AramEau's Org logo
-  * Once it's created set it as this org's profile photo, and as the MercagoPago's profile photo too
-* Use a project management tool for this roadmap instead of this README (Maybe using Github Projects)
-* Research and add CICD pipelines / secrets
+* Word Randomizer
+* CLI
+* SCPUP
+* Morfeo's Component Library
+* Morfeo's Showcase
 
 ### About
 
