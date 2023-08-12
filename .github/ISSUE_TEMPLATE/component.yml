@@ -4,7 +4,6 @@ title: "[Component] Component "
 body:
   - type: input
     id: name
-    required: true
     attributes:
       label: New Component Name
   - type: checkboxes
