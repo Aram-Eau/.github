@@ -1,9 +1,10 @@
 name: New Component Implementation
 description: Add a new component to Morfeo
-title: "[Component]: "
+title: "[Component] Component "
 body:
   - type: input
     id: name
+    required: true
     attributes:
       label: New Component Name
   - type: checkboxes
