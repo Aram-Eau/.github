@@ -1,0 +1,23 @@
+name: New Component Implementation
+description: Add a new component to Morfeo
+title: "[Component]: "
+body:
+  - type: input
+    id: name
+    attributes:
+      label: New Component Name
+  - type: checkboxes
+    id: acceptance_criteria
+    attributes:
+      label: Acceptance Criteria
+      description: These are the tasks to do so that we can validate that the component was implemented successfully
+      options:
+        - label: Morfeo Implementation
+          description: Implemented component in morfeo component library
+          required: true
+        - label: Pandora Partial
+          description: Added scss partial file to pandora theme
+          required: true
+        - label: Review
+          description: Someone reviewed that the component looks good and works well
+          required: true
