@@ -1,7 +1,6 @@
 name: New Component Implementation
 description: Add a new component to Morfeo
 title: "[Component]: "
-projects: ["Aram-Eau/projects/2"]
 body:
   - type: input
     id: name
