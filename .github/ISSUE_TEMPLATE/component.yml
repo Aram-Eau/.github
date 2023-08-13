@@ -1,11 +1,11 @@
 name: New Component Implementation
 description: Add a new component to Morfeo
-title: "[Component] Component "
+title: "[Component]Component "
 body:
   - type: input
     id: name
     attributes:
-      label: New Component Name
+      label: New Component Description
   - type: checkboxes
     id: acceptance_criteria
     attributes:
@@ -15,3 +15,4 @@ body:
         - label: Implemented component in morfeo component library
         - label: Added scss partial file to pandora theme
         - label: Someone reviewed that the component looks good and works well
+  
